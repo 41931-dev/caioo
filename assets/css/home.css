@@ -10,7 +10,7 @@ main{
 header{
     width: 100%;
     height: 20vh;
-    background: #000;
+    background: #6e2a2a;
 }
 section{
     width: 100%;
@@ -19,10 +19,10 @@ section{
     padding: 1%;
 }
 #cs2{
-    background: #de8315
+    background: #4e3517
 }
 #valorant{
-    background: #F74352
+    background: #552a2e
 }
 .skin{
     width: 18%;
@@ -46,6 +46,6 @@ img{
 footer{
     width: 100%;
     height: 10vh;
-    background: #42d0ff;
+    background: #1b2427;
     float: left;
 }
